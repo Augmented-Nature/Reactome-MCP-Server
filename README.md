@@ -264,3 +264,13 @@ Access Reactome data through standardized URIs:
 1. Fork the repository
 2. Make your changes
 3. Submit a pull request
+
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{reactomemcp2025, 
+author = {Moudather Chelbi},
+title = {Reactome MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/Reactome-MCP-Server},
+note = {Accessed: 2025-06-29}
